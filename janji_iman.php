@@ -106,11 +106,11 @@
 </div>
 </div>
 </section>
-<div id="myModal" class="modal fade" role="dialog">
-    <div class="modal-dialog">
+<!-- <div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog"> -->
 
         <!-- Menampilkan Modal Secara Otomatis-->
-        <div class="modal-content">
+        <!-- <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <p class="modal-title">Pesan</p>
@@ -126,7 +126,7 @@
         </div>
 
     </div>
-</div>
+</div> -->
 
 <?php include'footer.php'; ?>
 <script>
