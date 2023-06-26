@@ -6,25 +6,43 @@
 <head>
 	<title>Gereja Injil Di Indonesia GIDI</title>
 </head>
-	<div class="home">
-		<div class="home_slider_container">
-			<!-- Home Slider -->
-			<div class="owl-carousel owl-theme home_slider">
-				
-				<!-- Slider Item -->
-				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(img/slide/berdoa.jpg")></div>
+				<div class="home">
+					<div class="home_slider_container">
+						Home Slider
+						<div class="owl-carousel owl-theme home_slider">
+							
+							Slider Item
+							<div class="owl-item">
+							<div class="sidebar">
+				<img src="84295458_171596841017844_2085393363549873193_n.jpg" alt="Gambar 1">
+				<img src="gambar.jpg" alt="Gambar 2">
+				<img src="mayus.jpg" alt="Gambar 3">
+				<img src="img-20180922-wa0003.jpg" alt="Gambar 4">
+				<img src="prayer-1308663_960_720.jpg" alt="Gambar 5">
+			</div>
+
+			<script>
+				var images = document.querySelectorAll('.sidebar img');
+				var currentImageIndex = 0;
+				var interval = setInterval(changeImage, 2000);
+
+				function changeImage() {
+				images[currentImageIndex].style.display = 'none';
+				currentImageIndex = (currentImageIndex + 1) % images.length;
+				images[currentImageIndex].style.display = 'block';
+				}
+			</script>
+					<!-- <div class="home_slider_background" style="background-image:url(img/slide/berdoa.jpg)"></div> -->
 					<div class="home_content">
 						<div class="container">
 							<div class="row">
 								<div class="col">
 									<div class="home_content_inner">
-										<div class="home_title"><h1>GEREJA GIDI CYKLOP SENTANI</h1></div>
+										<div class="home_title"><h1>GIDI EFATA CYKLOP SENTANI</h1></div>
 										<div class="home_text">
-											<!-- <p>GEREJA GIKI MERUPAKAN GERAJA YANG MEMILIKI JEMAAT </p> -->
 										</div>
 										<div class="button home_button">
-											<a href="#">GESER>></a>
+											<a href="">GESER>></a>
 										</div>
 									</div>
 								</div>
@@ -35,7 +53,7 @@
 
 				<!-- Slider Item -->
 				<div class="owl-item">
-					<div class="home_slider_background" style ="background-image:url(img/slide/gambarj.jpg")></div>
+					<div class="home_slider_background" style ="background-image:url(img/slide/gambarj.jpg)"></div>
 					<div class="home_content">
 						<div class="container">
 							<div class="row">
