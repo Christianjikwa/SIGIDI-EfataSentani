@@ -18,12 +18,12 @@
 								</a>
 							</div>
 							<div class="footer_about_text">
-								<p>Mari datang beribadah di Gereja GIDI Cyklop Sentani</p>
+								<p>Mari datang beribadah di Gereja GIDI Efata Cyklop Sentani</p>
 							</div>
 							<ul class="footer_about_list">
 								<li><div class="footer_about_icon"><img src="images/phone-call.svg" alt=""></div><span>+64 852-7794-8885</span></li>
 								<li><div class="footer_about_icon"><img src="images/envelope.svg" alt=""></div><span>gidicyklopsentani@gmail.com</span></li>
-								<li><div class="footer_about_icon"><img src="images/placeholder.svg" alt=""></div><span>Jln.Budi Kemasyarakatan No. 5 Pulo Brayan Kota, Medan</span></li>
+								<li><div class="footer_about_icon"><img src="images/placeholder.svg" alt=""></div><span>Jln.Sereh.Kec.Sentani,Kabupaten Jayapura.Papua 99359</span></li>
 							</ul>
 						</div>
 					</div>
@@ -72,7 +72,7 @@
 				<div class="row">
 					<div class="col">
 						<div class="copyright_content d-flex flex-lg-row flex-column align-items-lg-center justify-content-start">
-							<div class="cr"> GIDI CYKLOP SENTANI <i aria-hidden="true"></i> Dev <a href="https://layanancoding.com" target="_blank">LC: Delisman Hulu </a>
+							<div class="cr"> GIDI EFATA CYKLOP SENTANI <i aria-hidden="true"></i> Dev <a href="https://www.google.com/search?client=ms-android-samsung-gj-rev1&hl=in-ID&cs=1&sxsrf=APwXEdeXq6Lo3juWHP5BUfYGEYrWdhOpeA:1687484292942&q=GEREJA+GIDI+EFATA+CYCLOP&ludocid=12879074679765467577&gsas=1&client=ms-android-samsung-gj-rev1&ibp=gwp;0,7&lsig=AB86z5VyWFGpgSx8rUSQp9lUW2QV&kgs=176d7e7a45e7e317&shndl=-1&shem=lsp&source=sh/x/kp/local/4" target="_blank">Decky Christian Yikwa S.Tr.Kom</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 							<div class="footer_social ml-lg-auto">
 								<ul>
