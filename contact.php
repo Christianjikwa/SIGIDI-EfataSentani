@@ -33,14 +33,14 @@
 
 				<!-- Contact Info -->
 				<div class="col-lg-6">
-					<div class="section_title"><h2>GEREJA INJIL DI INDONESIA CYKLOP SENTANI</h2></div>
+					<div class="section_title"><h2>GEREJA INJIL DI INDONESIA EFATA CYKLOP SENTANI</h2></div>
 					<div class="contact_text">
 						<p></p>
 					</div>
 					<ul class="contact_about_list">
-						<li><div class="contact_about_icon"><img src="images/phone-call.svg" alt=""></div><span>+62852-7794-8885</span></li>
-						<li><div class="contact_about_icon"><img src="images/envelope.svg" alt=""></div><span>gidisyklopsentani@gmail.com</span></li>
-						<li><div class="contact_about_icon"><img src="images/placeholder.svg" alt=""></div><span>Jln.Budi Kemasyarakatan No. 5 Pulo Brayan Kota, Medan</span></li>
+						<li><div class="contact_about_icon"><img src="images/phone-call.svg" alt=""></div><span>+62823-7770-4319</span></li>
+						<li><div class="contact_about_icon"><img src="images/envelope.svg" alt=""></div><span>gidiefatasentani@gmail.com</span></li>
+						<li><div class="contact_about_icon"><img src="images/placeholder.svg" alt=""></div><span>Jln.Sereh.Kec.Sentani,Kab. Jayapura.Papua 99359</span></li>
 					</ul>
 				</div>
 
@@ -115,16 +115,17 @@
 								<div class="map_container">
 									<div id="map">
 										<!-- <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.8356631020224!2d98.67492329415798!3d3.6249936281043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zM8KwMzcnMzAuMSJOIDk4wrA0MCcyOS44IkU!5e0!3m2!1sid!2sid!4v1537043333354" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+										
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8733673030556!2d140.50558017312272!3d-2.5481076974302015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x686cefe61c9646a1%3A0xb2bbaa2f5b2601b9!2sGEREJA%20GIDI%20EFATA%20CYCLOP!5e0!3m2!1sid!2sid!4v1687490001577!5m2!1sid!2sid" width="1555" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-
-										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.852773461521!2d98.66890516369078!3d3.6211052679731277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30313202ab8da46b%3A0x7065dd21d09b8e87!2sGiki!5e0!3m2!1sid!2sid!4v1537846152017" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+										<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.852773461521!2d98.66890516369078!3d3.6211052679731277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30313202ab8da46b%3A0x7065dd21d09b8e87!2sGiki!5e0!3m2!1sid!2sid!4v1537846152017" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
 									</div>
 								</div>
 							</div>
 						</div>
 
 						<!-- Working Hours -->
-						<div class="box working_hours">
+						<!-- <div class="box working_hours">
 							<div class="box_icon d-flex flex-column align-items-start justify-content-center"><div style="width:29px; height:29px;"><img src="images/alarm-clock.svg" alt=""></div></div>
 							<div class="box_title">Jadwal Ibdah Hari Minggu</div>
 							<div class="working_hours_list">
@@ -135,7 +136,7 @@
 									</li>
 								</ul>
 							</div>
-						</div>
+						</div> -->
 
 					</div>
 
