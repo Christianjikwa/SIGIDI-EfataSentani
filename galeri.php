@@ -2,7 +2,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="styles/services.css">
 <link rel="stylesheet" type="text/css" href="styles/services_responsive.css">
-	<title>Daftar Galeri GIDI Cyklop Sentani</title>
+	<title>Daftar Galeri GIDI Efata Cyklop Sentani</title>
 <style type="text/css">
 	img { transition: all .2s ease-in-out; }
 img:hover { transform: scale(1.5); }
