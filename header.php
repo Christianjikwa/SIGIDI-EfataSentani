@@ -33,7 +33,7 @@
 					<div class="col">
 						<div class="top_bar_content d-flex flex-row align-items-center justify-content-start">
 							<div class="top_bar_item"><a href="contanct.php">Alamat :</a></div>
-							<div class="top_bar_item"><a href="contanct.php">Jln.Budi Kemasyarakatan No. 5 Pulo Brayan Kota, Medan</a></div>
+							<div class="top_bar_item"><a href="contact.php">Jln.Sereh.Kec.Sentani,Kab.Jayapura.Papua 99359</a></div>
 							<!-- <div class="top_bar_item"><a href="#">Jln.Budi Kemasyarakatan No. 5 Pulo Brayan Kota, Medan</a></div> -->
 							<div class="emergencies  d-flex flex-row align-items-center justify-content-start ml-auto">Gembala Sidang : +62823-9970-4319</div>
 						</div>
@@ -77,10 +77,10 @@
 								<div class="logo_content d-flex flex-column align-items-start justify-content-center">
 									<div class="logo_line"></div>
 									<div class="logo d-flex flex-row align-items-center justify-content-center">
-										<div class="logo_text">GIDI<span> CYKLOP SENTANI</span></div>
+										<div class="logo_text">GIDI<span> EFATA SENTANI</span></div>
 										<!-- <div class="logo_box">+</div> -->
 									</div>
-									<div class="logo_sub">Jl.B. Kemasyarakatan No 5</div>
+									<div class="logo_sub">Jln.Sereh.Kec.Sentani,<br>Kabupaten Jayapura.Papua 99359</div>
 								</div>
 							</a>
 						</div>
